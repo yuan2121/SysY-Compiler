@@ -1,0 +1,7 @@
+declare i32 @getint()
+declare void @putint(i32)
+declare void @putch(i32)
+declare void @putstr(i8*)
+define dso_local i32 @main() {
+ret i32 0
+}

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="error"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/compile/mid_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lexer">
+				<Option output="F:/compile/mid_code/cmake-build-debug/lexer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/compile/mid_code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 lexer"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lexer/fast">
+				<Option output="F:/compile/mid_code/cmake-build-debug/lexer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/compile/mid_code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 lexer/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/compile/mid_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/compile/mid_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;F:/compile/mid_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/compile/mid_code/FuncTable.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/IntTable.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/Lexer.cpp">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/Lexer.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/And.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/Block.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/BlockItem.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/Decl.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/Def.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/Func.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/FuncIdent.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/IntIdent.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/Node.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/Root.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/NonTerminal/Stmt.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/Parser.cpp">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/Parser.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/PreParser.cpp">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/PreParser.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/StrToken.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/Token.cpp">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/Token.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/main.cpp">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/main.h">
+			<Option target="lexer"/>
+		</Unit>
+		<Unit filename="F:/compile/mid_code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

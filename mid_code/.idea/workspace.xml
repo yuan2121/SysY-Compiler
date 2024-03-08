@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="mid_code" targetName="lexer" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-D CMAKE_C_COMPILER= C:\Program Files\LLVM\bin\clang.exe -D CMAKE_CXX_COMPILER= C:\Program Files\LLVM\bin\clang++.exe" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1a755e6-2c2a-4833-960a-c213e5be6613" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="2YCoEKtXrgFDyONH8ooZCEI27KC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\compile\mid_code\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lexer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mid_code" TARGET_NAME="lexer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mid_code" RUN_TARGET_NAME="lexer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1a755e6-2c2a-4833-960a-c213e5be6613" name="Default Changelist" comment="" />
+      <created>1700038809440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700038809440</updated>
+      <workItem from="1700038810716" duration="498000" />
+      <workItem from="1700041359999" duration="222000" />
+      <workItem from="1700043572452" duration="1511000" />
+      <workItem from="1700196646081" duration="17995000" />
+      <workItem from="1700275920884" duration="9490000" />
+      <workItem from="1700293230578" duration="3421000" />
+      <workItem from="1700375871097" duration="5117000" />
+      <workItem from="1700535357411" duration="23870000" />
+      <workItem from="1700565587588" duration="5326000" />
+      <workItem from="1700576139633" duration="346000" />
+      <workItem from="1700637519725" duration="13105000" />
+      <workItem from="1700669736201" duration="1937000" />
+      <workItem from="1700709146296" duration="3931000" />
+      <workItem from="1701586428716" duration="21921000" />
+      <workItem from="1702351095508" duration="24200000" />
+      <workItem from="1702457103911" duration="659000" />
+      <workItem from="1702474057205" duration="9516000" />
+      <workItem from="1702615314390" duration="155000" />
+      <workItem from="1702694212759" duration="122000" />
+      <workItem from="1702694501664" duration="289000" />
+      <workItem from="1702694894774" duration="232000" />
+      <workItem from="1702886795116" duration="7698000" />
+      <workItem from="1702955576610" duration="28808000" />
+      <workItem from="1702988897370" duration="4115000" />
+      <workItem from="1702996059911" duration="477000" />
+      <workItem from="1703415173052" duration="114000" />
+      <workItem from="1703474858333" duration="1423000" />
+      <workItem from="1709607536199" duration="1552000" />
+      <workItem from="1709866293802" duration="841000" />
+      <workItem from="1709867160278" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1709867211609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1709867211609" />
+    <state x="698" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1709866980694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1709866980694" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1709867439738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1709867439738" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1709867439738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1709867439738" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1709867439738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1709867439738" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1709867439738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1709867439738" />
+    <state width="1877" height="345" key="GridCell.Tab.1.bottom" timestamp="1702988532565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1702988532565" />
+    <state width="1877" height="345" key="GridCell.Tab.1.center" timestamp="1702988532564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1702988532564" />
+    <state width="1877" height="345" key="GridCell.Tab.1.left" timestamp="1702988532563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1702988532563" />
+    <state width="1877" height="345" key="GridCell.Tab.1.right" timestamp="1702988532565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1702988532565" />
+    <state x="1120" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1709867167506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1120" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1709867167506" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1709867122371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1709867122371" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1702967731009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1702967731009" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/NonTerminal/Assign.h</url>
+          <line>72</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/NonTerminal/Assign.h</url>
+          <line>22</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/NonTerminal/Assign.h</url>
+          <line>21</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="funcs[2]" />
+        <watch expression="this" />
+        <watch expression="this" />
+        <watch expression="newTable-&gt;inTable" language="ObjectiveC" />
+        <watch expression="newTable-&gt;inTable" />
+        <watch expression="this-&gt;orExp-&gt;label" />
+        <watch expression="e" />
+        <watch expression="exps[0][1]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
